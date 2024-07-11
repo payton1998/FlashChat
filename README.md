@@ -4,3 +4,4 @@ Built a fully functional messaging app that allows users to read and send messag
 
 <img width="351" alt="Screenshot 2024-07-11 at 1 42 37 PM" src="https://github.com/payton1998/FlashChat/assets/17220685/dc187269-4302-4456-8abe-ac0148da73d3">
 
+<img width="351" alt="Screenshot 2024-07-11 at 1 43 17 PM" src="https://github.com/payton1998/FlashChat/assets/17220685/0604ce9c-b370-413a-98ee-c93b7790cb53">
